@@ -16,7 +16,8 @@ ul.nav{
 }
 
 #heading {
-    font-size: 1.4em;
+    font-size: 1.6em;
+    margin-bottom: 25px;
 }
 
 .row div div {
@@ -26,4 +27,8 @@ ul.nav{
 
 .row > div {
     margin-bottom: 35px;
+}
+
+row h3 {
+    font-size: 1.3em;
 }
